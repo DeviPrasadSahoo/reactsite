@@ -1,0 +1,10 @@
+
+.carousel{
+    height: 400px;
+    float: left;
+    background: #212529;
+    display: inline-flex;
+}
+.carousel-item{
+    height: calc(100vh - 200px);
+}

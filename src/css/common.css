@@ -1,0 +1,140 @@
+/* Common styles */
+body{
+    background-color: #eee;
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+.secondary-text{
+    color:#888;
+}
+.list-ul{
+    list-style-type: none;
+    padding: 0;
+}
+.colorbg{
+    width: 100%;
+    position: relative;
+    top: -74px;
+}
+.main_page{
+    width:80%;   
+    margin: 5vh auto;
+    box-shadow: 0px 0px 10px 2px #7d7d7d;
+}
+.container_main{
+    background: #fbfbfb;
+    padding: 20px;
+    height: calc(100vh - 165px);
+    box-shadow: 0px 0px 8px 1px #888;
+    overflow: hidden;
+}
+.showMorebtn{
+    border: 1px solid #7f58af;
+    border-radius: 3px;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: #7f58af;
+    transition: all 0.5s;
+    position: relative;
+    width: 120px;
+    display: inline-block;
+    text-align: center;
+}
+.showMorebtn:hover{
+    color: #7f58af;
+    text-decoration: none;
+}
+.showMorebtn span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .showMorebtn span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: -5px;
+    right: -20px;
+    transition: 0.5s;
+    font-size: 20px;
+  }
+  
+  .showMorebtn:hover span {
+    padding-right: 15px;
+  }
+  
+  .showMorebtn:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+
+/* Portfolio Section */
+.portfolio_main{
+    background-color: #eee;
+    height:100%;
+    width: 100%;
+    float: left;
+}
+
+.mybanner{
+    border-radius: 50%;
+    width: 154px;
+    height: 154px;
+    z-index: 9999;
+    position: absolute;
+    border: 3px solid #fbfbfb;
+}
+
+.mybanner:hover{
+    width: 158px;
+    height: 158px;
+    transition: 0.3s;
+}
+.portfolioimg .portfolioimg-bg{
+    border-radius: 50%;
+    width: 154px;
+    height: 154px;
+    background: #7f58af;
+    display: block;
+    position: absolute;
+    top: 18px;
+    left: 30px;
+    z-index: 999;
+    border: 3px solid #fbfbfb;
+}
+.portfolioimg .circle_two{
+    background: #e84d8a;
+    top: 26px;
+    left: 54px;
+    z-index: 99;
+}
+.portfolioimg .circle_three{
+    background: #fe8326;
+    top: 25px;
+    left: 75px;
+    z-index: 9;
+}
+.portfolio-section{
+    background: #fbfbfb;
+    padding: 20px;
+    height: calc(100vh - 165px);
+    box-shadow: 0px 0px 8px 1px #888;
+    overflow: hidden;
+}
+
+.portfolio-row{
+    padding: 30px;
+    position: relative;
+    z-index: 99;
+}
+.portfolio-img{
+    height: 160px;
+    width: 100%;
+}
+.portfolioshowbtn a{
+    color:darkorchid;
+}
