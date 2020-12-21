@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/reactsite/static/css/main.220b1b89.chunk.css",
+    "main.js": "/reactsite/static/js/main.755714c2.chunk.js",
+    "main.js.map": "/reactsite/static/js/main.755714c2.chunk.js.map",
+    "runtime-main.js": "/reactsite/static/js/runtime-main.28a5f817.js",
+    "runtime-main.js.map": "/reactsite/static/js/runtime-main.28a5f817.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/reactsite/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.33050c19.chunk.js": "/reactsite/static/js/2.33050c19.chunk.js",
+    "static/js/2.33050c19.chunk.js.map": "/reactsite/static/js/2.33050c19.chunk.js.map",
+    "static/js/3.04d67491.chunk.js": "/reactsite/static/js/3.04d67491.chunk.js",
+    "static/js/3.04d67491.chunk.js.map": "/reactsite/static/js/3.04d67491.chunk.js.map",
+    "index.html": "/reactsite/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/reactsite/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.220b1b89.chunk.css.map": "/reactsite/static/css/main.220b1b89.chunk.css.map",
+    "static/js/2.33050c19.chunk.js.LICENSE.txt": "/reactsite/static/js/2.33050c19.chunk.js.LICENSE.txt",
+    "static/media/Belhoul-Speciality-Hospital.385bb45d.jpg": "/reactsite/static/media/Belhoul-Speciality-Hospital.385bb45d.jpg",
+    "static/media/banner2.92f10125.jpg": "/reactsite/static/media/banner2.92f10125.jpg",
+    "static/media/banner4.e32b3e9b.jpg": "/reactsite/static/media/banner4.e32b3e9b.jpg",
+    "static/media/banner5.37fb489a.jpg": "/reactsite/static/media/banner5.37fb489a.jpg",
+    "static/media/colorbg.9a1aa3bf.png": "/reactsite/static/media/colorbg.9a1aa3bf.png",
+    "static/media/csh1.f4c7eec9.jpg": "/reactsite/static/media/csh1.f4c7eec9.jpg",
+    "static/media/logo.6ce24c58.svg": "/reactsite/static/media/logo.6ce24c58.svg",
+    "static/media/prasad2.5add76be.jpg": "/reactsite/static/media/prasad2.5add76be.jpg",
+    "static/media/rak6.8ffc3429.png": "/reactsite/static/media/rak6.8ffc3429.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28a5f817.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.33050c19.chunk.js",
+    "static/css/main.220b1b89.chunk.css",
+    "static/js/main.755714c2.chunk.js"
+  ]
+}
